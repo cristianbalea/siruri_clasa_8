@@ -29,7 +29,7 @@ int main() {
 
             /*
             Daca am ajuns la 1, inseamna ca numarul este format
-            doar din puteri ale lui 2, si incrementam variabila nr.
+            doar din termeni de 2, si incrementam variabila nr.
             */
             if(x == 1) {
                 nr++;
